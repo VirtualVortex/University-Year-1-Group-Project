@@ -1,0 +1,18 @@
+Elder Agatha| Aro, where are you? 
+Come to me Aro. There are matters I wish to discuss with you …(To move and jump press the WASD keys!)|
+
+Elder Agatha| It seems that we are in great danger Aro| The Lost Spirits will not rest until they have found you| Aro:| But the other villagers...they've been captured by the Lost Spirits! We need to rescue them!| 
+Listen to me Aro. Do not stray from this village and keep out of sight. Our lives depend upon it| Aro:| But the villagers’ lives are in danger. If you won’t help them then I WILL!|/
+
+Shrooman| Ahh...you picked up one of those spores?| Collecting spores will re-charge the magical energy of your cloak|
+(Magic spores refill your stealth ability. This is depicted by the blue bar next to your health!)|/
+
+Bjorn(Bear)| Ah Spirit Talker| You have arrived just as the Prophecy foretold| You honour me with your presence| Aro:| We must find the other villagers, they’ve been captured! Will you help me find them| Your will is my command Aro| Lead the way| Destroy|/ 
+
+Theo(Rabbit)| Who…what? Oh so sleepy *yawn* just how long has it been anyway?| Aro:| I am Aro the Spirit Talker| Turia is in need of your aid Spirit of Speed| 
+So you're that Spirit Talker huh? Ol' Bjorn won’t stop going on about it| Talking about this and that prophecy...just drives me crazy|
+Bjorn:| Hmph. I heard that | Heheh| Only kiddin' with ya big guy| Anyway... we got a kingdom to save or what?| Destroy|/
+
+Quyll(Bird)| Hello| I am Bird| here is my power| Destroy|/
+
+Dialog1| Aro:|What a beautiful view| Aro:|but I need to keep moving|/

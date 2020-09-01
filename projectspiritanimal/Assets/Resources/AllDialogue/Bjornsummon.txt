@@ -1,0 +1,5 @@
+Bjorn: | Who summons me? Who disturbs my slumber?| This place…the sacred caves of Turia.| A fading memory, yet I still remember.| Spirit Talker... aren't you a little young to be a Spirit talker?|
+Aro: | Yes, yes I am.|
+@: | Well I am Bjorn, the Sacred Spirit of Strength.| It will be an honour to fight by your side.| To summon me, press [1].| Hold [shift], move then release and I will leap forward with a strong punch!|
+Aro: | Like a slingshot?|
+@: | ....Yes. I can break through some walls and I can stun the lost spirits.| Lead the way, I shall follow.| Destroy|/

@@ -1,0 +1,10 @@
+Theo: | Huh? What's going on?|
+Bjorn: | Get up!| You are in the presence of the Spirit Talker!|
+@: | Oh, err... sure.| Her? You sure?|
+Aro: | Apparently.|
+Bjorn: | YES!|
+@: | Oh, you're tiny.|
+Aro: | You're huge.|
+Bjorn: | You're both wasting time!| Aro you need to find the other two keys and get to the temple before it's too late!|
+Aro: | Fine! I'm doing it!|
+@: | First, summon me by pressing [2], press [Shift] while moving and you will dash forward!| Afterwards I will need a few seconds to recharge my ability.| Destroy|/

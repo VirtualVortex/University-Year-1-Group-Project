@@ -1,0 +1,6 @@
+@: | Aro? Why are you here? Wait, you're not the one looking to buy some 'moondust' are you?|
+Aro: | ....Er...yeah?|
+Quiyll: | NO we are not here to buy MOONDUST!| Aro needs the key to the temple!|
+@: | Oh this thing? I 'found' it a while ago...don't know where it leads to though.|
+Bjorn: | Hmmm, seems suspicous...|
+Aro: | Seems legit! Let's Go!|/

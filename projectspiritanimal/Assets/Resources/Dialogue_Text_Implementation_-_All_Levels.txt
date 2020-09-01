@@ -1,0 +1,104 @@
+
+THE ELDER| So...you have finally awoken. Today you will learn the secrets of the Spirit Talker…you will face your final test.
+You must journey across this land and find the sacred shrines. Recite the ancient ritual and summon forth the Sacred Beasts.
+Spirits guide you on your quest Aro...|
+CEP:| Elder! Elder!|
+THE ELDER:| Hmm yes? I trust this is of importance Cep...|
+CEP:|Elder! We need your help! The village...the village is in great danger Elder!|
+THE ELDER:| Wha-what? Impossible. Impossible I say! Not a single soul has set foot in our village for years...|
+CEP:| I speak the truth Elder! The Lost Spirits...the Lost Spirits have come for us! They are here!|
+THE ELDER:| No....no...it cannot be. They dare not to venture past the Hollow Tree...this is unspeakable.|
+CEP:| They've already taken the other villagers. I tried to stop them...but I feared for my own life.|
+THE ELDER:| Such insolence...they dare to trespass? Then it is as prophecy foretold. You must go Aro... summon the Spirit Beasts and close the portals. Stop the Lost Spirits before it's too late!/
+
+
+Cave Area Dialogue
+
+
+BJORN|Who summons me? Who disturbs my slumber? It has been many years…this place…the sacred caves…Turia. A fading memory…but I still remember to this day…
+Spirit Talker… You have arrived as prophecy foretold. You honour me with your presence. The Bear Clans tell many tales of your courage. 
+I am Bjorn, the Sacred Spirit of Strength. It will be an honour to fight by your side, Spirit Talker. Lead the way./ 
+
+
+BJORN| Ahhh I remember those days ...truly glorious! To wear the Armour of The Royal Guard was a true honour. Those days of my youth have long since passed.
+Yet still I remain a guardian even after all these years. I swore a sacred oath to protect this land. I must answer the call./
+
+
+CHESTNUT| Hhmmm yes...yess....the abundance of ore in these caves is simply staggering. Inconceivable...extraordinary!! Hohohoh! I can't wait to tell Cep all about this...oh yes, we'll make millions! We'll be rich, rich I say! Hohohoh!
+Oh....oh oh?? Now now now... w-who do we have here now? Hmm yes yes? Who might you be? Hohoh! Can't you s-see I'm rather busy here??
+Hhmmm...it's the Spirit Talker!... I...uhh...see. Hmm yes very well. I must admit I am bit surrounded here by those er... troublesome spirits. Looks like you came in good time dear Aro! I shall take my leave then. Farewell!/
+
+
+
+Burrows Area Dialogue 
+
+
+THEO| *Yawn* Who…what? Man…so…sleepy *yawn* where...where am I? Oh...the Burrow's, Home sweet home. Ok ok no need for the usual formailities. The names Theo, Spirit of Speed. Take it you already met ol'Bjorn here huh?|
+
+BJORN:|Indeed...we have been acquainted...now I follow the Spirit Talker's command. It's been some time Theo...|
+
+THEO:| Good to see you again big guy! What's the deal here anyway? I was quite enjoying my time in the Spiritworld it's quite the party heheheh!|
+
+BJORN:| Hmph....unlike yourself, I have been training my abilities in the halls of Valour for this very moment. I knew this day would come. This is not a time for frivolity or idleness. I hate to disappoint you Theo, but there will be no feasting or dancing here!|
+
+THEO:| Aahhh Bjorn...no need to be an ol'grouch is there? Lighten up old man! Things ain't so bad... it's just the end times that's all! Let's have a toast... to the good old days!|
+
+BJORN:| Bah! You are trying my patience little one...how many times must I tell you? We have been summoned to send these accursed spirits back to the void whence they came, understand? We swore a solemn oath as Guardians! I tire of this idle chatter...we have a kingdom to save!|
+
+THEO:|Jeez no need to get all uptight Bjorn. Just trying to lighten the mood. Anyway guess we best get to it. I'm right beside you Aro...let's go!/
+
+
+SYRUP ROUGE| Ahhh! Wha-what? W..wh-who goes there? Leave me be! Have mercy aahh! Hold on...wait. Er..oh my...you aren't one of those things. Oh thank heavens...I thought my days were numbered there. 
+Please...I don't want to turn into one of those things. I...I can already feel the void's corruption taking hold of me... I must leave this place and find the Elder!/
+
+
+Hollow Tree Dialogue
+
+
+QUIYLL|Who dares to disturb my studies of the Arcane? Such insolence!|
+
+BJORN:|Quiyll...it's been a while. *Sigh* You haven't changed I see...|
+
+QUIYLL:|Hmph. And you’re still the same stubborn old brute by the looks of things. You’d better have a very good reason to bother me Bjorn. I have far more important matters to attend to.|
+
+BJORN| There is no time to waste Quiyll! It’s just as we feared.The Lost Spirits have already ventured past the Hollow Tree...we must close the portal!|
+
+QUIYLL:|*Sigh* I tire of this foolishness. Very well. We shall head to the Temple then. I will follow you Spirit Talker.../
+
+[Aro meeting Shady Shroom at the top of Hollow Tree].
+
+SHADE| Eh? Oh. Spirit Talker...you caught me by suprise there...heh heh. You lookin' to do some business? Found some shards of void stone lying around... heard these sell for quite a bit in the capital. 
+Not entirely...er...legit per se...but you can make a tidy profit from them. Heh heh...anyway best make a move. There's money to be made!/
+
+
+Scene Temple Ruins (Final Level)
+
+
+QUIYLL| So we have arrived. The ruins of the Ancient Temple...it's been aeons since we stepped foot in this accursed place...|
+
+BJORN:| Hmm...the corruption is strong here. I sense the presence of void itself...the portal is near.|
+
+QUIYLL:| Indeed. If memory serves, there should be void crystals here witholding the portal's magical energy. To close the portal we must locate these crystals and destroy them.|
+
+BJORN:| I will break the crystals...leave that to me.|
+
+THEO:| Great. Leave all the glory to the big guy huh...you always were the Queen's favourite.|
+
+BJORN:| I am simply fufilling my duty as Guardian Theo. This isn't a competition. You should treat this more seriously...the kingdom's future is at stake.|
+
+THEO:| Yeah sure. And maybe if we hadn't run away all those years ago we wouldn't be in this mess.|
+
+BJORN:| You know that we had no choice Theo. The void would have consumed us all! There was nothing...there was we could do.|
+
+THEO:| Sure keep telling yourself that. 'Spirit of Strength and Bravery'... pffhh...|
+
+QUIYLL:| Enough of this nonsense! The both of you! This is not the time for your childish bickering! Let us find the crystals and be done with this.../
+
+
+
+
+
+
+
+
+

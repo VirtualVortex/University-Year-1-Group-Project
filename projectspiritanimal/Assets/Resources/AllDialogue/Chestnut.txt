@@ -1,0 +1,7 @@
+Chestnut| The abundance of ore in these caves is simply staggering.| I can't wait to tell Cep all about this...|Oh yes, we'll make millions! We'll be rich! Hoho!|Oh....oh??| Now now... w-who do we have here now?| Aro? You're not allowed in the caves, what are you doing here?|
+Aro: | The village has been surrounded by lost spirits. | Cep said something about a key and a temple and there was some mention of a portal I think.|
+@: | But you wearn't supposed go to the temple until you were older.| Who's that fella' behind you? Is that Bjorn?| Maybe it is time. Here's the key to unlock the first door in the passage that leads to the temple.|
+Aro: | What passage? |
+@: | The one above this cave. The Elder did tell you right?|
+Aro: | I don't really listen to him....he smells funny.|
+@: | Hehehe! Off you go then you little rascal!|/

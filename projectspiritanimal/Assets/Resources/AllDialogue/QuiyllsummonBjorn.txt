@@ -1,0 +1,11 @@
+Aro: | Which one lived here? I can never remember which one it is.|
+Bjorn: | Quiyll, the bird.|
+Aro: | Oh yeah! Bird Brain Quiyll.|
+@: | Who dares to disturb my studies of the Arcane.| 
+Bjorn:| Quiyll...it's been a while.| *Sigh* You haven't changed I see...|
+@: | Hmph. And you’re still a stubborn old brute by the looks of things.| And who is this insolent child?|
+Aro: | I'm a spirit talker.|
+@: | ...You...you're the Spirit Talker that The Elder told us about?|
+Aro: | Yup!|
+Bjorn: | The Lost Spirits have advanced quicker than expected. | We must act now and go ahead of schedule.|
+@: | Very well. Aro I think I saw one of the keyholders go to the top of the tree.| I don't know what he's doing up there. He looked very shady...| Summon me by pressing [2]. While I am active you have the ability to triple jump.| Destroy|/

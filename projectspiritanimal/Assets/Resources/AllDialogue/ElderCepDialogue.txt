@@ -1,0 +1,17 @@
+The Elder| Finally, you're awake.| The Mushroom Houses need cleaning. Chop Chop!| Well get to it then.|
+CEP:| Elder! Elder!|
+@| Hmm yes? I trust this is of importance.|
+CEP:| We need your help. The village is in great danger!|
+@| What?! What kind of danager?|
+CEP:| The Lost Spirits have come for us. They're surrounding the village!|
+@|So, it has finally happened.|
+CEP:| What should we do?|
+@| Aro, you must summon the Spirit Beasts and journey to the Temple.| There you will close the portal to stop the Lost Spirits from taking over the land!|
+Aro:| But why me? I'm only 12, can't any of you lot do it?|
+@| You are the Spirit Talker. You're the only one who can command the spirits.| You will need the help of the Spirit Beasts to destroy the portal.|
+Aro:| Uggh, fine! Where are these beasts?|
+@| Do you even listen to my teachings?| Bjorn is in the Cave, Theo is in the Burrows and Quiyll is in the Hollow Tree.|
+Aro:| Guess I'll start with Bjorn. Did you say he was in the big tree?|
+@| THE CAVE!! TO THE WEST!!|
+Aro:| Oh yeah! Now I remember!|
+CEP: | To get to the Temple you will need to find the Shroomen who have the keys.|/

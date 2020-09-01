@@ -1,0 +1,67 @@
+The Elder| So...you have finally awoken. Listen carefully Aro.| Today you will learn the secrets of the Spirit Talker…you will face your final test.|
+So...you have finally awoken. Listen carefully Aro.|You must journey across this land and find the sacred shrines.| Recite the ancient ritual and summon forth the Sacred Beasts.|
+Spirits guide you on your quest Aro...|
+CEP:| Elder! Elder!|@|
+Hmm yes? I trust this is of importance Cep...|
+CEP:|Elder! We need your help! The village...the village is in great danger Elder!|@|
+Wha-what? Impossible. Impossible I say! Not a single soul has set foot in our village for years...|
+CEP:| I speak the truth Elder! The Lost Spirits...the Lost Spirits have come for us! They are here!|@|
+No....no...it cannot be. They dare not to venture past the Hollow Tree...this is unspeakable.|
+CEP:| They've already taken the other villagers. I tried to stop them...but I feared for my own life.|@|
+Such insolence...they dare to trespass?| Then it is as prophecy foretold. You must go Aro... summon the Spirit Beasts and close the portals.| Stop the Lost Spirits before it's too late!|/
+
+Bjorn(Bear)| Who summons me? Who disturbs my slumber? It has been many years…this place…the sacred caves…Turia| A fading memory…but I still remember to this day…
+Spirit Talker… You have arrived as prophecy foretold| You honour me with your presence. The Bear Clans tell many tales of your courage|
+I am Bjorn, the Sacred Spirit of Strength. It will be an honour to fight by your side, Spirit Talker| Lead the way| Destroy|/
+
+Bob(Lapis)| Ahhh I remember those days ...truly glorious!| To wear the Armour of The Royal Guard was a true honour. Those days of my youth have long since passed.|
+Yet still I remain a guardian even after all these years.| I swore a sacred oath to protect this land. I must answer the call.|/
+
+Chestnut| The abundance of ore in these caves is simply staggering Hohohoh.| I can't wait to tell Cep all about this...oh yes, we'll make millions! We'll be rich, rich I say! Hohohoh!|
+Oh....oh oh??| Now now now... w-who do we have here now?| Hmm yes yes? Who might you be?| Hohoh! Can't you s-see I'm rather busy here??|
+Hhmmm...it's the Spirit Talker!... I...uhh...see.| Hmm yes very well.| I must admit I am bit surrounded here by those er... troublesome spirits.| Looks like you came in good time dear Aro!| I shall take my leave then. Farewell!| Take this key I found|/
+
+Theo(Rabbit)| *Yawn* Who…what? Man…so…sleepy *yawn* where...where am I?| Oh...the Burrow's, Home sweet home. Ok ok no need for the usual formailities.| The names Theo, Spirit of Speed.| Take it you already met ol'Bjorn here huh?|
+
+Bjorn:|Indeed...we have been acquainted...now I follow the Spirit Talker's command.| It's been some time Theo...|@|
+Good to see you again big guy!| What's the deal here anyway?| I was quite enjoying my time in the Spiritworld it's quite the party heheheh!|
+
+Bjorn:| Hmph....unlike yourself, I have been training my abilities in the halls of Valour for this very moment.|I knew this day would come.| This is not a time for frivolity or idleness.|I hate to disappoint you Theo, but there will be no feasting or dancing here!|@|
+Aahhh Bjorn...no need to be an ol'grouch is there? Lighten up old man!| Things ain't so bad... it's just the end times that's all! Let's have a toast... to the good old days!|
+
+Bjorn:| Bah! You are trying my patience little one...how many times must I tell you?| We have been summoned to send these accursed spirits back to the void whence they came, understand?|We swore a solemn oath as Guardians!| Bjorn:|I tire of this idle chatter...we have a kingdom to save!|@|
+Jeez no need to get all uptight Bjorn.| Just trying to lighten the mood. Anyway guess we best get to it. I'm right beside you Aro...let's go!|Destroy|/
+
+Syrup Rouge| Ahhh! Wha-what?| W..wh-who goes there?| Leave me be!| Have mercy aahh!| Hold on...wait.| Er..oh my...you aren't one of those things.| Oh thank heavens...I thought my days were numbered there. 
+|Please...I don't want to turn into one of those things.| I...I can already feel the void's corruption taking hold of me... I must leave this place and find the Elder!|/
+
+Quiyll(Bird)| Such insolence. Who dares to disturb my studies of the Arcane.|
+Bjorn:| Quiyll...it's been a while.| *Sigh* You haven't changed I see...|@|
+Hmph. And you’re still the same stubborn old brute by the looks of things.| You’d better have a very good reason to bother me Bjorn.| I have far more important matters to attend to.|
+Bjorn:| There is no time to waste Quiyll!| It’s just as we feared.The Lost Spirits have already ventured past the Hollow Tree...we must close the portal!|@|
+*Sigh* I tire of this foolishness. Very well. We shall head to the Temple then.| I will follow you Spirit Talker...|Destroy|/
+
+[Aro meeting Shady Shroom at the top of Hollow Tree].
+
+Shade| Eh.| Oh.| Spirit Talker...you caught me by suprise there...heh heh.| You lookin' to do some business?| Found some shards of void stone lying around...| heard these sell for quite a bit in the capital.| 
+Not entirely...er...legit per se...but you can make a tidy profit from them.| Heh heh...anyway best make a move. There's money to be made!|/
+
+Dialog1| Aro:|What a beautiful view| but I need to keep moving|/
+
+Dialog2| Hint:|The Elder wishes to speak to you!| Use WASD to move.|/
+
+Dialog3| Hint:|Use W and S, to move up and down ladders.|/
+
+Dialog4| Hint:|Collect Stealth Spores, to avoid enemies.| Use SPACEBAR to activate Stealth.|/
+
+Dialog5| Aro:|Hmm...| I Think The Elder mentioned something about a cave to the west.| I Should probably go there first.|/
+
+Dialog6| Aro:|The Lost Forest!| Not far to the Hollow Tree now.| The Elder would be so proud.|/
+
+Dialog7| Hint:|To use Bjorn's abilites hold SHIFT, then move in the direction of aim and let go.|He can break walls and Stun Enemies.|/
+
+Dialog8| Hint:|To use Theo's abilites hold SHIFT whilst already moving, to activate boost.|/
+
+Dialog9| Hint:|To use Quiyll's abilites press W, mutiple times to activate triple-jump.|/
+
+

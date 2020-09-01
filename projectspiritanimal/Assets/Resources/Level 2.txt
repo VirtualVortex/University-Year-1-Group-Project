@@ -1,0 +1,8 @@
+Quiyll | So we have arrived.| The ruins of the Ancient Temple...it's been years since we stepped foot in this accursed place.|
+Bjorn: | Hmm...the corruption is strong here. I sense the presence of void itself...the portal is near.|
+@ |Indeed. If memory serves, there should be void crystals here witholding the portal's magical energy.| To close the portal we must locate and destroy the crystals.|
+Bjorn: | I will break the crystals...leave that to me.|
+Theo: | This place gives me the creeps. I don't like it one bit.|
+Aro: | I can feel it, the power...| 
+@ | Be careful Aro, even us Spirits are fearful of this place.|
+Aro: | Yes ma'am. Let's do this!|/
